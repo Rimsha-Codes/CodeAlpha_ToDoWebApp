@@ -5,16 +5,6 @@
 **CodeAlpha ToDo WebApp** is an interactive web application designed to help users manage their daily tasks efficiently.  
 This project was developed as part of my **CodeAlpha internship assignment**, showcasing my front-end development skills using **React.js**.
 
----
-
-## Features
-
-- **Add, Edit, Delete Tasks:** Manage tasks with ease.
-- **Search & Filter:** Quickly locate specific tasks.
-- **Task Statistics:** View completed vs. pending tasks.
-- **Responsive Design:** Optimized for both desktop and mobile devices.
-- **Local Storage:** Tasks are stored locally to prevent data loss on page refresh.
-
 ## Features
 
 - **User Authentication:** Secure **Login** and **Registration** system to manage individual accounts.
