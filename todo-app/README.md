@@ -15,12 +15,14 @@ This project was developed as part of my **CodeAlpha internship assignment**, sh
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 - **Local Storage:** Tasks are stored locally to prevent data loss on page refresh.
 
-  ## Technology Used
+## Features
 
-  Frontend: React.js, JSX, HTML5, CSS3, Tailwind CSS (optional)  
-   State Management: React `useState` and props  
-   Data Storage: JavaScript `localStorage` API  
-   Version Control: Git & GitHub
+- **User Authentication:** Secure **Login** and **Registration** system to manage individual accounts.
+- **Add, Edit, Delete Tasks:** Manage tasks with ease.
+- **Search & Filter:** Quickly locate specific tasks.
+- **Task Statistics:** View completed vs. pending tasks.
+- **Responsive Design:** Optimized for both desktop and mobile devices.
+- **Local Storage:** Tasks are stored locally to prevent data loss on page refresh.
 
 ## How to Run
 
